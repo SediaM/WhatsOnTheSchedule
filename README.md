@@ -6,12 +6,12 @@ A simple calendar application that allows a user to save events for each hour of
 
 ## Usage
 
-Using a daily planner to create a schedule
-A user can open the planner
-Then the current day is displayed at the top of the calendar
-A user will be presented with timeblocks for standard business hours of 9am&ndash;5pm
-Each timeblock is color coded to indicate whether it is in the past, present, or future
-Events can be entererd into each timeblock by clicking into it
+Using a daily planner to create a schedule.
+A user can open the planner.
+Then the current day is displayed at the top of the calendar.
+A user will be presented with timeblocks for standard business hours of 9am&ndash;5pm.
+Each timeblock is color coded to indicate whether it is in the past, present, or future.
+Events can be entererd into each timeblock by clicking into it.
 The text can be saved into teh local storage by clicking the save button.
 When the page is refreshed, the saved events persist.
 
